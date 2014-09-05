@@ -1,0 +1,35 @@
+table, td {
+    border: solid 1px #000;
+    background: #D3D3D3;
+}
+
+textarea {
+    width: 300px;
+    display: block;
+}
+
+.red{
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+
+.bar {
+    width: 300px;
+    background: #C1D2EA;
+    border: solid 1px #000;
+    border-radius: 30px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+ }
+
+.bar ul li {
+    list-style-type: circle;
+}
+
+form div {
+    margin:  3px;
+}

@@ -1,0 +1,33 @@
+table {
+    width: 22%;
+    display: inline-table;
+    border-collapse: collapse;
+    margin: 1%;
+}
+
+table thead tr:nth-of-type(2) th {
+    border-bottom: solid 1px #000;
+    border-top: solid 1px #000;
+}
+
+
+
+table td, table thead tr th {
+    width: 14.28%;
+    text-align: right;
+}
+
+.sunday {
+    color: red;
+}
+
+.calendar {
+    width: 80%;
+    margin: 25px auto;
+    text-align: center;
+}
+
+.year {
+    font-weight: bold;
+    font-size: 300%;
+}
